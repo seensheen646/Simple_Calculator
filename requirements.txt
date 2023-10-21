@@ -1,0 +1,13 @@
+asgiref @ file:///C:/ci_311/asgiref_1676448296195/work
+Django @ file:///C:/ci_311/django_1676469589007/work
+django-filter==23.2
+djangorestframework==3.14.0
+Markdown==3.4.4
+numpy==1.26.1
+pandas==2.1.1
+Pillow==9.5.0
+python-dateutil==2.8.2
+pytz==2023.3
+six==1.16.0
+sqlparse @ file:///C:/ci_311/sqlparse_1676456541280/work
+tzdata==2023.3
