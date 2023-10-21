@@ -1,2 +1,2 @@
-def mul(x):
-    return x*x
+def mul(a,b):
+    return a*b
